@@ -11,7 +11,7 @@
 * [License](#License)
 
 ## Live Site
-To access the ZutunApp, click on this link [Zutun](https://zutunapp.web.app/)
+To access the ZutunApp, click on this link [ZutunApp](https://zutunapp.web.app/)
 
 ![Todo Application](https://i.ibb.co/YDSxRfV/Screenshot-32.png)
 
