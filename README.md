@@ -6,7 +6,7 @@
 * [Setup](#Setup)
 * [Features](#Zutun-Features)
 * [Status](#Status)
-* [Why Zutun?](#Why-Zutun)
+* [Why ZutunApp?](#Why-Zutun)
 * [Contact](#Contact)
 * [License](#License)
 
