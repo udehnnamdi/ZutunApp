@@ -1,22 +1,22 @@
 # Zutun-React-Typescript-App
 ## TABLE OF CONTENTS
 * [Live Site](#Live-Site)
-* [About](#About-YouKaufen)
+* [About](#About-Zutun)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
-* [Features](#YouKaufen-Features)
+* [Features](#Zutun-Features)
 * [Status](#Status)
-* [Why YouKaufen?](#Why-YouKaufen)
+* [Why YouKaufen?](#Why-Zutun)
 * [Contact](#Contact)
 * [License](#License)
 
 ## Live Site
-To access the YouKaufen App, click on this link [YouKaufen](https://youkaufen.firebaseapp.com/)
+To access the YouKaufen App, click on this link [Zutun](https://zutunapp.web.app/)
 
-![Purchase Order Application](https://i.ibb.co/rQ4B7y2/Screenshot-28.png)
+![Todo Application](https://i.ibb.co/YDSxRfV/Screenshot-32.png)
 
 ## About YouKaufen
-YouKaufen is an app that was created with the primary purpose of demonstrating the core features of React-redux. It is a Purchase Order app that lets you purchase specific products by adding them to a cart. The app was created with the use of html, CSS, Javascript, React.js, React-redux, and Firebase.
+ZutunApp is an app that was created with the primary purpose of demonstrating the core features of Typescript. It is a todo app that enables users add and remove todo's from a list.
 
 ## Technologies
 Html 5
@@ -25,32 +25,28 @@ Css 3
 
 Javascript
 
-React.js
+Typescript
 
-React-redux
+React.js
 
 React hooks
 
-Firebase
-
 ## Setup
 1. Fork and clone this repository
-2. Navigate into the Youkaufen folder via the cd command in your command prompt or terminal first.
+2. Navigate into the ZutunApp/zutun-app folder via the cd command in your command prompt or terminal first.
 3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
 4. Run ~ npm start to start the server
 
-## YouKaufen Features
-- Purchase products
-- Add to, and subtract products from a cart
-- Toggle cart visibility
-
+## Zutun Features
+- Add todo
+- Remove todo
 
 ## Status 
 Completed
 
 
-## Why FitVictuals
-The app was created as a with the sole purpose of demonstrating the core react-redux functionalities. It demonstrates the efficiency of redux in managing states on react apps.
+## Why Zutun
+The app was created with the sole purpose of demonstrating the core typescript functionalities. It demonstrates how typescript can be effectively incorporated to enhance react apps.
 
 ## Contact
 Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
