@@ -6,7 +6,7 @@
 * [Setup](#Setup)
 * [Features](#Zutun-Features)
 * [Status](#Status)
-* [Why YouKaufen?](#Why-Zutun)
+* [Why Zutun?](#Why-Zutun)
 * [Contact](#Contact)
 * [License](#License)
 
