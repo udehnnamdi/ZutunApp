@@ -1,46 +1,59 @@
-# Getting Started with Create React App
+# Zutun-React-Typescript-App
+## TABLE OF CONTENTS
+* [Live Site](#Live-Site)
+* [About](#About-YouKaufen)
+* [Technologies](#Technologies)
+* [Setup](#Setup)
+* [Features](#YouKaufen-Features)
+* [Status](#Status)
+* [Why YouKaufen?](#Why-YouKaufen)
+* [Contact](#Contact)
+* [License](#License)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Site
+To access the YouKaufen App, click on this link [YouKaufen](https://youkaufen.firebaseapp.com/)
 
-## Available Scripts
+![Purchase Order Application](https://i.ibb.co/rQ4B7y2/Screenshot-28.png)
 
-In the project directory, you can run:
+## About YouKaufen
+YouKaufen is an app that was created with the primary purpose of demonstrating the core features of React-redux. It is a Purchase Order app that lets you purchase specific products by adding them to a cart. The app was created with the use of html, CSS, Javascript, React.js, React-redux, and Firebase.
 
-### `npm start`
+## Technologies
+Html 5
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Css 3
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Javascript
 
-### `npm test`
+React.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React-redux
 
-### `npm run build`
+React hooks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Firebase
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Setup
+1. Fork and clone this repository
+2. Navigate into the Youkaufen folder via the cd command in your command prompt or terminal first.
+3. Run ~ npm install to install all required dependencies (this will create a /node_modules folder).
+4. Run ~ npm start to start the server
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## YouKaufen Features
+- Purchase products
+- Add to, and subtract products from a cart
+- Toggle cart visibility
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Status 
+Completed
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Why FitVictuals
+The app was created as a with the sole purpose of demonstrating the core react-redux functionalities. It demonstrates the efficiency of redux in managing states on react apps.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Contact
+Created by [Nnamdi Udeh](http://www.linkedin.com/in/nnamdi-udeh-630a33185)
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
+[view here](License.txt)
