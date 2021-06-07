@@ -11,11 +11,11 @@
 * [License](#License)
 
 ## Live Site
-To access the YouKaufen App, click on this link [Zutun](https://zutunapp.web.app/)
+To access the ZutunApp, click on this link [Zutun](https://zutunapp.web.app/)
 
 ![Todo Application](https://i.ibb.co/YDSxRfV/Screenshot-32.png)
 
-## About YouKaufen
+## About ZutunApp
 ZutunApp is an app that was created with the primary purpose of demonstrating the core features of Typescript. It is a todo app that enables users add and remove todo's from a list.
 
 ## Technologies
